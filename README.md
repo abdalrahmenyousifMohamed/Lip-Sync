@@ -39,6 +39,7 @@ Wav2Lip is an advanced lip-syncing model designed to synchronize mouth movements
 
 Update the `config.ini` file with your video and audio file paths and other settings. Here is an example configuration:
 
+-   should experiment with different values to find the best balance for your clip
 ```ini
 [OPTIONS]
 video_file = /path/to/video.mp4
@@ -64,7 +65,7 @@ debug_mask = False
 
 [OTHER]
 batch_process = False
-output_suffix = _Easy-Wav2Lip
+output_suffix = ENHANCED
 include_settings_in_suffix = False
 preview_input = False
 preview_settings = False
