@@ -1,6 +1,7 @@
 
 # Lip Sync Application
 
+
 Wav2Lip is an advanced lip-syncing model designed to synchronize mouth movements with audio. Its primary strength lies in creating realistic and accurate lip movements, making it ideal for various applications in video editing and content creation
 
 ## Table of Contents
@@ -74,6 +75,9 @@ frame_to_preview = 777
 
 # StreamLit
   ```streamlit run app.py```
+
+  
+https://github.com/user-attachments/assets/b346a6cb-9985-43d6-85a2-bad385ca7086
 
 # Demos
 
